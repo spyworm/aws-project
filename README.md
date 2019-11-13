@@ -1,2 +1,2 @@
-# Aws-project
-Aws Devops project
+# Azure-project
+Azure Devops project
